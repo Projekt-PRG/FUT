@@ -1,0 +1,35 @@
+Projekt : FIFA 16 Ultimate Team Datenbank FUD
+
+Team:
+Nedim Mulalic
+Korkiat Zintel 2203497
+Abderrahman Aloui 2203622
+
+
+Projekt Beschreibung :
+Unser Ziel ist es eine Datenbank für den Spielmodus Ultimate Team in FIFA 16 zu erstellen.
+Die Datenbank verfügt eine Übersicht über die verschiedenen Spielkarten (Spieler/Charaktere), deren
+Attribute, Herkunft und Wert. Ziel ist es das wir eine Oberfläche erstellen, in der man einfach
+Spielerkarten, Ligen und Mannschaften, suchen kann.
+Beispielsweise gibt man in das Suchfeld „ Bayern München“, dabei wird die Datenbank durchsucht und
+gibt eine detailierte Übersicht aller Informationen wieder(Spieler und Wert der Manscchaft).
+
+Vorstellung Projektablauf:
+. Im Uns ist klar dass wir uns in einem etwas breiten Bereich bewegen, demensprechend wollen wir
+unser Projekt etappenweise umsetzen.
+
+Gruppenplanung
+Um dieses Projekt durchführen zu können, müssen wir dies in drei Teile aufteilen.
+Mit HTML wird die Oberfläche, Layout und Design, erstellt. In MySQL realisieren wir die benötigte
+Datenbank mit Informationen der Mannschaften, Spieler usw…. Die Funktionalitäten werden durch PHP
+festgesetzt.
+
+Aufteilung unter der Gruppe
+HTML ( Abderrahman Aloui)
+MySQL (Nedim Mulalic)
+PHP (Korkiat Zintel)
+
+Erstes Projektziel
+Wir haben uns überlegt erstmal, kleine Teile zu realisieren d.h. einfache Oberfläche , eine kleine
+Datenbank ( ca. 20 Daten) und eine einfache Suchfunktion. Sobald wir dies realisiert haben erweitern
+wir die Bereiche bis zum Ziel des Projektes.
