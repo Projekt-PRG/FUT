@@ -42,6 +42,8 @@ Die urspruenglich in Sued- und Osteuropa verbreitete Art ist heute praktisch in 
 Sie ist eine alte Heilpflanze, die vor allem bei Magen- und Darmbeschwerden sowie bei Entzuendungen Verwendung findet.
 Die Echte Kamille wurde vom Verband Deutscher Drogisten (VDD) im Jahre 1987 zur ersten Arzneipflanze des Jahres gekuert. 
 Ausserdem waehlte man sie zur Heilpflanze des Jahres 2002.";
+
+#Zusätzlich soll Hier dann ein Beispielbild der Blume aus der Datenbank angezeigt werden.
 }
 else if($blume=="Rosen")
 {
@@ -55,6 +57,8 @@ Gärtnerisch wird zwischen Wildrosen und Kulturrosen unterschieden.
 Die Rose wird seit der griechischen Antike als \"Königin der Blumen\" bezeichnet.
 Rosen werden seit mehr als 2000 Jahren als Zierpflanzen gezüchtet.
 Das aus den Kronblättern gewonnene Rosenöl ist ein wichtiger Grundstoff der Parfumindustrie.";
+
+#Zusätzlich soll Hier dann ein Beispielbild der Blume aus der Datenbank angezeigt werden.
 }
 else
 {
